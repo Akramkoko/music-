@@ -114,7 +114,7 @@ client.infos = new Enmap({ name: "infos", dataDir: "./databases/infos"});
         require(`./handlers/${h}`)(client);
     })
 //Start the Bot
-client.login(OTI5OTk1ODgyOTkxMDgzNTYx.YdvcKA.ft1ZuQ_db6fDROudWVN6HAwrE_A)
+client.login(OTI5OTk1ODgyOTkxMDgzNTYx.YdvcKA.b1BCVtDDcTmJY6gXQQNzY6S2BAs)
 
 /*
 client.on("ready", () => {
